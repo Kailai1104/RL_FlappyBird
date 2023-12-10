@@ -1,0 +1,5 @@
+numpy~=1.26.2
+torch~=1.10.0+cu102
+pygame~=2.1.2
+IPython~=8.0.1
+matplotlib~=3.5.1
