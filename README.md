@@ -10,10 +10,8 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
+<img src="https://github.com/Kailai1104/RL_FlappyBird/blob/main/images/bird0.png?raw=true" width="100"/><img src="https://github.com/Kailai1104/RL_FlappyBird/blob/main/images/bird1.png?raw=true" width="100"/><img src="https://github.com/Kailai1104/RL_FlappyBird/blob/main/images/bird2.png?raw=true" width="100"/>
 
-<center class="half">
-     <img src="https://github.com/Kailai1104/RL_FlappyBird/blob/main/images/bird0.png?raw=true" width="100"/><img src="https://github.com/Kailai1104/RL_FlappyBird/blob/main/images/bird1.png?raw=true" width="100"/><img src="https://github.com/Kailai1104/RL_FlappyBird/blob/main/images/bird2.png?raw=true" width="100"/>
-</center>
 
 ### 项目简介
 
