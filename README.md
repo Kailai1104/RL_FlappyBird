@@ -40,7 +40,7 @@ pip install -r requirements.txt
 
 ### 版权说明
 
-该项目签署了MIT 授权许可，详情请参阅 [LICENSE](https://github.com/Kailai1104/RL_FlappyBird/blob/master/LICENSE)
+该项目签署了MIT 授权许可，详情请参阅 [LICENSE](https://github.com/Kailai1104/RL_FlappyBird/blob/main/LICENSE)
 
 
 <!-- links -->
